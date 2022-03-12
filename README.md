@@ -33,11 +33,8 @@ https://choosealicense.com/licenses/mit/
 
 MIT License
 
-Copyright (c) [yyyy] [fullname]
+Copyright (c) [2022] [NiccoloEck]
 
-
-2022
-Niccolo Eck
 
 ### Contribution
 https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br> https://github.com/JayMoses01
@@ -46,6 +43,7 @@ https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba <br> https://github.com/Jay
 
 
 ### Questions
-[Github Profie](https://github.com/Niccolosaurus)
-nicco.eck@gmail.com
+[Github Profie](https://github.com/Niccolosaurus)</br>
+nicco.eck@gmail.com</br>
+https://bit.ly/37e5P9i</br>
 
